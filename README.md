@@ -1,4 +1,5 @@
-### Opa, prazer! Eu me chamo Ryan de Oliveira e sou estudante de programação.
+### Olá, Devs! Sejam Todos Bem-vindos! 👋
+### Eu sou o Ryan de Oliveira, iniciando nesse mundo de desenvolvimento!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
